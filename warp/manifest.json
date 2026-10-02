@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "files": [
+    "masque.yaml",
+    "usque-custom-pro.yaml",
+    "combined.yaml"
+  ],
+  "formats": [
+    "masque.yaml",
+    "usque-custom-pro.yaml",
+    "combined.yaml"
+  ],
+  "node_count": 577,
+  "warp_node_count": 56,
+  "external_node_count": 521,
+  "file_node_counts": {
+    "masque.yaml": 56,
+    "usque-custom-pro.yaml": 577,
+    "combined.yaml": 577
+  },
+  "account_reused": true,
+  "registered_accounts": 0,
+  "connectivity_tested": false,
+  "live_connectivity_tested": false,
+  "external_nodes_materialized": true,
+  "external_provider_count": 0,
+  "source_counts": [
+    {
+      "country": "US",
+      "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-US.yaml",
+      "bytes": 201193,
+      "downloaded": 533,
+      "rejected": 120,
+      "deduplicated": 148,
+      "embedded": 265,
+      "usable": 265
+    },
+    {
+      "country": "JP",
+      "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-JP.yaml",
+      "bytes": 122666,
+      "downloaded": 457,
+      "rejected": 28,
+      "deduplicated": 221,
+      "embedded": 208,
+      "usable": 214
+    },
+    {
+      "country": "SG",
+      "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-SG.yaml",
+      "bytes": 50254,
+      "downloaded": 148,
+      "rejected": 59,
+      "deduplicated": 41,
+      "embedded": 48,
+      "usable": 48
+    }
+  ],
+  "source_totals": {
+    "bytes": 374113,
+    "downloaded": 1138,
+    "rejected": 207,
+    "deduplicated": 410,
+    "embedded": 521,
+    "usable": 521
+  },
+  "country_locations_verified": false,
+  "country_node_counts": {
+    "US": 265,
+    "JP": 214,
+    "SG": 48
+  },
+  "pure_warp_route_mappings": [],
+  "donor_warp_route": "WARP-chained external exit"
+}
