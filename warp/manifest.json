@@ -10,13 +10,13 @@
     "usque-custom-pro.yaml",
     "combined.yaml"
   ],
-  "node_count": 476,
+  "node_count": 532,
   "warp_node_count": 56,
-  "external_node_count": 420,
+  "external_node_count": 476,
   "file_node_counts": {
     "masque.yaml": 56,
-    "usque-custom-pro.yaml": 476,
-    "combined.yaml": 476
+    "usque-custom-pro.yaml": 532,
+    "combined.yaml": 532
   },
   "account_reused": true,
   "registered_accounts": 0,
@@ -28,47 +28,47 @@
     {
       "country": "US",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-US.yaml",
-      "bytes": 126913,
-      "downloaded": 325,
-      "rejected": 26,
-      "deduplicated": 82,
-      "embedded": 217,
-      "usable": 217
+      "bytes": 155466,
+      "downloaded": 397,
+      "rejected": 67,
+      "deduplicated": 109,
+      "embedded": 221,
+      "usable": 221
     },
     {
       "country": "JP",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-JP.yaml",
-      "bytes": 61918,
-      "downloaded": 183,
-      "rejected": 5,
-      "deduplicated": 48,
-      "embedded": 130,
-      "usable": 131
+      "bytes": 80069,
+      "downloaded": 241,
+      "rejected": 11,
+      "deduplicated": 67,
+      "embedded": 163,
+      "usable": 163
     },
     {
       "country": "SG",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-SG.yaml",
-      "bytes": 42462,
-      "downloaded": 126,
-      "rejected": 16,
-      "deduplicated": 37,
-      "embedded": 73,
-      "usable": 73
+      "bytes": 56417,
+      "downloaded": 170,
+      "rejected": 25,
+      "deduplicated": 53,
+      "embedded": 92,
+      "usable": 92
     }
   ],
   "source_totals": {
-    "bytes": 231293,
-    "downloaded": 634,
-    "rejected": 47,
-    "deduplicated": 167,
-    "embedded": 420,
-    "usable": 420
+    "bytes": 291952,
+    "downloaded": 808,
+    "rejected": 103,
+    "deduplicated": 229,
+    "embedded": 476,
+    "usable": 476
   },
   "country_locations_verified": false,
   "country_node_counts": {
-    "US": 217,
-    "JP": 131,
-    "SG": 73
+    "US": 221,
+    "JP": 163,
+    "SG": 92
   },
   "pure_warp_route_mappings": [],
   "donor_warp_route": "WARP-chained external exit",
