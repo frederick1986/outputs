@@ -28,47 +28,47 @@
     {
       "country": "US",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-US.yaml",
-      "bytes": 239168,
-      "downloaded": 628,
-      "rejected": 106,
-      "deduplicated": 272,
-      "embedded": 250,
-      "usable": 250
+      "bytes": 246586,
+      "downloaded": 644,
+      "rejected": 103,
+      "deduplicated": 294,
+      "embedded": 247,
+      "usable": 247
     },
     {
       "country": "JP",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-JP.yaml",
-      "bytes": 55255,
-      "downloaded": 151,
-      "rejected": 24,
-      "deduplicated": 48,
-      "embedded": 79,
-      "usable": 79
+      "bytes": 57520,
+      "downloaded": 154,
+      "rejected": 31,
+      "deduplicated": 42,
+      "embedded": 81,
+      "usable": 82
     },
     {
       "country": "SG",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/clash-SG.yaml",
-      "bytes": 84103,
-      "downloaded": 229,
-      "rejected": 44,
-      "deduplicated": 101,
-      "embedded": 84,
-      "usable": 84
+      "bytes": 89035,
+      "downloaded": 245,
+      "rejected": 48,
+      "deduplicated": 112,
+      "embedded": 85,
+      "usable": 85
     }
   ],
   "source_totals": {
-    "bytes": 378526,
-    "downloaded": 1008,
-    "rejected": 174,
-    "deduplicated": 421,
+    "bytes": 393141,
+    "downloaded": 1043,
+    "rejected": 182,
+    "deduplicated": 448,
     "embedded": 413,
     "usable": 413
   },
   "country_locations_verified": false,
   "country_node_counts": {
-    "US": 250,
-    "JP": 79,
-    "SG": 84
+    "US": 247,
+    "JP": 82,
+    "SG": 85
   },
   "pure_warp_route_mappings": [],
   "donor_warp_route": "WARP-chained external exit",
